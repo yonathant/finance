@@ -239,6 +239,9 @@ footer p{
  }
 
 @media (max-width: 450px) {
+ .four.columns {
+  margin-top: 0;
+ }
  #logo{
   width: 60px;
  }
