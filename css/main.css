@@ -132,7 +132,7 @@ input[type="submit"] {
  box-shadow: 0 8px 12px -6px rgba(0, 0, 0, 0.3);
  transition: all ease 0.2s;
 }
-input[type="submit"]:hover {
+input[type="submit"]:hover, input[type="submit"]:focus {
  -webkit-box-shadow: 0 10px 12px -8px rgba(0, 0, 0, 0.5);
  box-shadow: 0 10px 12px -8px rgba(0, 0, 0, 0.5);
  transform: translateY(-5px);
@@ -140,6 +140,7 @@ input[type="submit"]:hover {
  background-color: #ff3d7e;
 }
 
+/*******************************/
 
 .sub-section {
  margin: 70px auto 50px auto;
