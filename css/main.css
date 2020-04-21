@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Assistant:wght@700&display=swap');
 @font-face {
  font-family: 'mplus1p';
- src: url('/fonts/mplus1p.ttf'); /* Safari, Android, iOS */
+ src: url('../fonts/mplus1p.ttf'); /* Safari, Android, iOS */
 }
 * {
  box-sizing: border-box;
